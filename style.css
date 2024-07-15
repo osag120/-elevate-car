@@ -10,3 +10,10 @@ body{
     background-color: purple;
 
 }
+.op{
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    background-image: url(family.jpg);
+
+}
